@@ -1,1 +1,1 @@
-# fruugo-opencart
+# Fruugo Importer OcMod for Opencart
